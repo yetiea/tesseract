@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Tesseract Web Demo</title>
+    <title>Tesseract Web Demo tian</title>
 
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
     <meta http-equiv="CACHE-CONTROL" content="NO-CACHE" />
